@@ -27,5 +27,4 @@ I've built websites in team settings, but my proudest project is a Diseased Plan
 **Mataimvcb/Mataimvcb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 --!>
 
-Hey there!
 
