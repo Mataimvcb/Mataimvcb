@@ -2,6 +2,7 @@
 
 <!--
 **Mataimvcb/Mataimvcb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+--!>
 
 Hey there!
 
@@ -27,5 +28,3 @@ I've built websites in team settings, but my proudest project is a Diseased Plan
 - I think mac & cheese is overrated 🙂‍↕️ (I don't like cheese)
 - I have a twin
 - Hobbies: crocheting, traveling, trying new things & meeting new people
-
---!>
