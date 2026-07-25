@@ -10,6 +10,7 @@ I'm open to discussions, collaborations, and working on teams with others who sh
 On the side, I love hanging out with friends and family. Hobbies: crocheting, traveling, trying new things & meeting new people.
 
 
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=5680F7&width=435&lines=%23%23+%F0%9F%9B%A0+Tech+Stack)](https://git.io/typing-svg)
 
 **Languages:** Python, Kotlin, Linux scripting<br>
@@ -18,10 +19,12 @@ On the side, I love hanging out with friends and family. Hobbies: crocheting, tr
 **Web Dev:** HTML, CSS, JavaScript (basic), React
 
 
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3D6DF7&width=435&lines=%23%23+%F0%9F%93%9A+Currently+Learning)](https://git.io/typing-svg)
 
 Strengthening my foundation in cybersecurity fundamentals through TryHackMe 💪🏾
 Getting comfortable with Linux for file management, networking, and VM environments
+
 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2C4CF7&width=435&lines=%23%23+%F0%9F%93%AB+Let's+Connect)](https://git.io/typing-svg)
