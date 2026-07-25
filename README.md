@@ -1,5 +1,29 @@
-# 💫 About Me:
-Hi there 👋<br>I'm Zainab, a cybersecurity enthusiast and beginner based in the US.<br><br>I'm currently researching and exploring ways to integrate AI into cybersecurity.<br><br>As a beginner, I'm focused on building strong foundations in cybersecurity and networking, and getting hands-on with tools like Wireshark, Linux, and Splunk.<br><br>🛠 Tech Stack: Python · Kotlin · SQL · HTML/CSS/JavaScript · Linux (intermediate)<br><br>📌 Projects : I've built websites in team settings, but my proudest project is a Diseased Plant Identifier — a Python model that detects disease in plants from images. That project is actually what sparked my interest in AI's security applications 🤔<br><br>📚 Currently Learning:<br><br>Strengthening my foundation in cybersecurity fundamentals through TryHackMe 💪🏾<br>Getting comfortable with Linux for file management, networking, and VM environments<br>Goal: Build a keylogger as a learning exercise to understand how to detect anomalous activity in email traffic 🤭<br>📫 Let's connect! Find me on LinkedIn.<br><br>😸 Fun facts:<br><br>I think mac & cheese is overrated 🙂‍↕️ (I don't like cheese)<br>I have a twin<br>Hobbies: crocheting, traveling, trying new things & meeting new people
+# 👋 About Me
+
+Hi there 👋
+I'm Zainab, a sophomore at UIUC studying Information and Data Science with a cybersecurity concentration. I'm building towards a career in cybersecurity, with a growing focus on adversarial ML. Currently, I'm focused on building strong foundations in networking, cyber fundamental, whole also getting hands-on with tools like Wireshark, Linux, and Splunk.
+
+I'm open to discussions, collaborations, and working on teams with others who share similar interests.
+
+On the side, I love hanging out with friends and family.
+Hobbies: crocheting, traveling, trying new things & meeting new people
+## 🛠 Tech Stack
+
+**Languages:** Python, Kotlin, Linux scripting<br>
+**Data Science:** Pandas, NumPy, scikit-learn, PyTorch<br>
+**Databases:** SQL, MySQL<br>
+**Web Dev:** HTML, CSS, JavaScript (basic), React
+
+## 📚 Currently Learning
+
+Strengthening my foundation in cybersecurity fundamentals through TryHackMe 💪🏾
+Getting comfortable with Linux for file management, networking, and VM environments
+
+## 📫 Let's Connect
+
+[LinkedIn](https://linkedin.com/in/zainab-salau/).
+[Gmail](zainabsalau54@gmail.com)
+
 
 
 ## 🌐 Socials:
