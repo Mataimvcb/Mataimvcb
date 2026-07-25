@@ -1,7 +1,6 @@
 https://github.com/user-attachments/assets/9e91d67e-8727-4912-9690-a56ce1d8ed8d
 
-# 👋 About Me
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%F0%9F%91%8B+About+Me)](https://git.io/typing-svg)
 Hi there 👋
 I'm Zainab, a sophomore at UIUC double majoring in Information Sciences and Data Science with a cybersecurity concentration. I'm building towards a career in cybersecurity, with a growing focus on adversarial ML.
 
