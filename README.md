@@ -29,7 +29,7 @@ Getting comfortable with Linux for file management, networking, and VM environme
 
 ## Github Stats
 ![](https://github-readme-stats.shion.dev/api?username=Mataimvcb&theme=radical&hide_border=false&include_all_commits=false&count_private=false)
-![](https://streak-stats.demolab.com/?user=Mataimvcb&theme=radical&hide_border=false)
+![](https://github-readme-streak-stats-blond-psi.vercel.app/?user=Mataimvcb&theme=radical&hide_border=false)
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Mataimvcb&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
